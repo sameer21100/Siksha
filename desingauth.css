@@ -1,0 +1,15 @@
+body
+
+
+{
+    background-color:#e6fffd;
+}
+.card{
+    padding-top: 2rem;
+    background-color:white;
+    border-radius: 6px;
+    box-shadow: 1px 3.5px 50px 2px;
+}
+.form-group{
+padding-left: 2rem;
+}
